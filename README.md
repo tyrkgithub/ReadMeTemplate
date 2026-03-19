@@ -8,31 +8,31 @@ A template to use for the starting point of my README files for the duration of 
 
 
 ## Table of Contents
-1. [UX](https://github.com/tyrkgithub/ReadMeTemplate/edit/main/README.md#ux) 
-* Project Goals
-* Parental Goals
-* Player Goals
-* Developer and Business Goals
-* User Stories
-* Design Choices
-* Wireframes
+### [UX](https://github.com/tyrkgithub/ReadMeTemplate/edit/main/README.md#ux) 
+##### [Project Goals](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#project-goals)
+##### [Parental Goals](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#parental-goals)
+##### [Player Goals](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#player-goals)
+##### [Developer and Business Goals](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#developer-and-business-goals)
+##### [User Stories](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#user-stories)
+##### [Design Choices](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#design-choices)
+##### [Wireframes](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#wireframes)
 
-2. [Features](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#features)
-* Existing Features
-* Future Feature Implementation
+### [Features](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#features)
+##### [Existing Features](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#existing-features)
+##### [Future Feature Implementation](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#future-feature-implementation)
 
-3. [Technologies Used](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#technoligies-used)
+### [Technologies Used](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#technoligies-used)
 
-4. [Testing](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#testing)
+### [Testing](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#testing)
 
-5. [Deployment](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#deployment)
-* How to Deploy this Application
+### [Deployment](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#deployment)
+##### [How to Deploy this Application](https://github.com/tyrkgithub/ReadMeTemplate/edit/main/README.md#how-to-deploy-this-application-1)
   
-6. [Credits](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#credits)
-* Content
-* Media
-* Images
-* Acknowledgments
+### [Credits](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#credits)
+##### [Content](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#content)
+##### [Media](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#media)
+##### [Code](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#code)
+##### [Acknowledgments](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#ackowledgments)
 
 
 ## UX
@@ -72,7 +72,9 @@ You can read more in depth about how I tested this application by reading the [T
 
 
 [External Testing](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/Testing.md#external-validations-and-testing)
+
 [UX Testing](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/Testing.md#user-experience-testing)
+
 [Solved Bugs (Extended)](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/Testing.md#solved-bugs)
 
 #### Solved Bugs
