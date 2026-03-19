@@ -8,7 +8,7 @@ A template to use for the starting point of my README files for the duration of 
 
 
 ## Table of Contents
-1. UX 
+1. [UX](https://github.com/tyrkgithub/ReadMeTemplate/edit/main/README.md#ux) 
 * Project Goals
 * Parental Goals
 * Player Goals
@@ -17,18 +17,18 @@ A template to use for the starting point of my README files for the duration of 
 * Design Choices
 * Wireframes
 
-2. Features
+2. [Features](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#features)
 * Existing Features
 * Future Feature Implementation
 
-3. Technologies Used
+3. [Technologies Used](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#technoligies-used)
 
-4. Testing
+4. [Testing](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#testing)
 
-5. Deployment
+5. [Deployment](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#deployment)
 * How to Deploy this Application
   
-6. Credits
+6. [Credits](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/README.md#credits)
 * Content
 * Media
 * Images
@@ -68,7 +68,12 @@ A template to use for the starting point of my README files for the duration of 
 
 ## Testing
 
-### Bugs Discovered
+You can read more in depth about how I tested this application by reading the [Testing.md](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/Testing.md)
+
+
+[External Testing](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/Testing.md#external-validations-and-testing)
+[UX Testing](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/Testing.md#user-experience-testing)
+[Solved Bugs (Extended)](https://github.com/tyrkgithub/ReadMeTemplate/blob/main/Testing.md#solved-bugs)
 
 #### Solved Bugs
 
@@ -77,10 +82,15 @@ A template to use for the starting point of my README files for the duration of 
    * What the bug was
    * How I solved the bug
   
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+2. Example Bug
+
+   * What the bug was
+   * How I solved the bug
+  
+3. Example Bug
+
+   * What the bug was
+   * How I solved the bug
 
 
 
